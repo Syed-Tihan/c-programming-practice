@@ -3,27 +3,27 @@
 
 Welcome to my C Programming Practice repository!
 
-I am a Computer Science and Engineering (CSE) student at East Delta University, currently learning C programming and improving my problem-solving skills.
+I am a Computer Science and Engineering (CSE) student at East Delta University, learning C programming and improving my problem-solving skills.
 
 ## 📚 Programs
 
-Here are some of my beginner-level C programming exercises:
-
-| Program | Description |
+| File | Description |
 |---|---|
 | `hello.c` | Hello World and personal introduction |
 | `triangle_area.c` | Calculate the area of a triangle |
-| `character_input.c` | Take a character as input and display it |
+| `character_input.c` | Character input and output |
+| `calculator.c` | Simple calculator using switch-case |
+| `grade_calculator.c` | Student grade calculation using if-else |
 
 ## 🛠️ Language Used
 
 - C Programming
 
-## 🎯 My Learning Goals
+## 🎯 Learning Goals
 
-- Strengthen my programming fundamentals.
-- Improve logical thinking and problem-solving.
-- Write clean and readable code.
+- Strengthen programming fundamentals.
+- Improve logical thinking.
+- Practice conditional statements and loops.
 - Build practical programming projects.
 
 ## 👨‍💻 About Me
